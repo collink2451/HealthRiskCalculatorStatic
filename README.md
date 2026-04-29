@@ -36,4 +36,4 @@ const api_url = "http://localhost:3000";
 
 ## Deployment
 
-Deploy to **Azure Static Web Apps** or any static hosting provider.
+No build step required — deploy the directory as-is to any static hosting provider or web server.
