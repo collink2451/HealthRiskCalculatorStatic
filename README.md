@@ -1,6 +1,6 @@
 # Health Risk Calculator
 
-Static frontend for a health insurance risk calculator. Collects four health factors from the user and displays an overall risk tier in real time, powered by the [HealthRiskCalculatorApi](../HealthRiskCalculatorApi) backend.
+Static frontend for a health insurance risk calculator. Collects four health factors from the user and displays an overall risk tier in real time, powered by the [health-risk-calculator-api](../health-risk-calculator-api) backend.
 
 ## Features
 
@@ -16,7 +16,7 @@ Static frontend for a health insurance risk calculator. Collects four health fac
 - Vanilla HTML, CSS, JavaScript
 - Bootstrap 5 (dark theme)
 - jQuery
-- Calls [HealthRiskCalculatorApi](../HealthRiskCalculatorApi) for all calculations
+- Calls [health-risk-calculator-api](../health-risk-calculator-api) for all calculations
 
 ## Setup
 
